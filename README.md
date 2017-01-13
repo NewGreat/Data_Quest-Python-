@@ -1,3 +1,3 @@
 # Data_Quest
-Interactive Platform For Learning Data Science
+An Interactive Platform For Learning Data Science
 https://www.dataquest.io
